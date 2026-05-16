@@ -1,9 +1,8 @@
 # Hi, I'm Hermine 👋
 
-**Data Scientist · AI Engineer · JavaScript Developer**
+**Data Scientist · Full-stack JavaScript Developer**
 
-With a background in data science and Python development, I focus on designing and deploying AI solutions that deliver real-world impact.  
-Currently pursuing a Lead Developer JavaScript certification (RNCP 7) at OpenClassrooms, building on two completed Master's-level certifications in Data Science and AI Project Management.
+Currently pursuing a Full-stack JavaScript development certification (RNCP 7) at OpenClassrooms, building on two completed Master's-level certifications in Data Science and AI Project Management.
 
 ---
 
